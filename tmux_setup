@@ -4,3 +4,6 @@ apt install curl -y
 apt install openssh -y
 apt install php -y
 apt install unzip -y
+apt upgrade
+pkg install python
+pkg install python3
